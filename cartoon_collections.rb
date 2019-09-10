@@ -19,7 +19,7 @@ end
 def find_the_cheese(food_array)
   cheese_types = ["cheddar", "gouda", "camembert"]
   food_array.map do |snack|
-
+    if snack.includse
   end
   return nil
 end
