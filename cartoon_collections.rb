@@ -21,5 +21,5 @@ def find_the_cheese(food_array)
   food_array.include?(cheese_types) do |snack|
     return snack
   end
-  
+  return nil
 end
