@@ -11,7 +11,7 @@ def summon_captain_planet(planateer_array)
 end
 
 def long_planeteer_calls(words_array)
-  words_array
+  words_array.sele
 end
 
 def find_the_cheese# code an argument here
