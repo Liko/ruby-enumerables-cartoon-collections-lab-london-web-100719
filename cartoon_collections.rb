@@ -8,8 +8,9 @@ def summon_captain_planet(planateer_array)
   planateer_array.map do |calls|
     calls.capitalize
     calls = calls + "!"
-    
   end 
+  
+  return planateer_array
 end
 
 def long_planeteer_calls# code an argument here
